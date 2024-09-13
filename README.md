@@ -16,4 +16,14 @@ Maestros que deseen hacer mas facil el aprendizaje de sus alumnos
 - herramientas para el maestro:
   - Manejar su grupo completo agregando cada estudiante con nombre y numero de estudiante
   - Por defecto cada estudiante va a tener asignado todo el material de mielectronica pero el maestro tendra la opcion para remover cursos a voluntad (Estudiante por estudiante o remover para el curso completo) y el porcentage de progreso será calculado con los cursos que el estudiante tenga asignados.
+- _deseable_ Inglés y español
+- _deseable_ Sintetizador o lectura de voz explicando cada tema
+
+# Tecnologias a utilizar
+
+- React con context API en el front end
+- Ruby on rails postgresql backend
+- Nano modulo 1 cp
+- sensor o detector
+- Bz
 
