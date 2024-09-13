@@ -26,4 +26,5 @@ Maestros que deseen hacer mas facil el aprendizaje de sus alumnos
 - Nano modulo 1 cp
 - sensor o detector
 - Bz
+- Imagen representativa de los componentes que se usan en cada nivel
 
