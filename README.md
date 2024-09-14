@@ -6,7 +6,7 @@ Las personas que van a utilizar este sitio, son estudiantes activos de electroni
 
 Maestros que deseen hacer mas facil el aprendizaje de sus alumnos
 
-# Estructura del sitio
+# Estructura del sitio y funcionalidad
 
 - Nucleo principal. Secuencia de estudio repetitiva
   - No se va a manejar calificaciones, solo porcentaje de avance
@@ -18,6 +18,8 @@ Maestros que deseen hacer mas facil el aprendizaje de sus alumnos
   - Por defecto cada estudiante va a tener asignado todo el material de mielectronica pero el maestro tendra la opcion para remover cursos a voluntad (Estudiante por estudiante o remover para el curso completo) y el porcentage de progreso será calculado con los cursos que el estudiante tenga asignados.
 - _deseable_ Inglés y español
 - _deseable_ Sintetizador o lectura de voz explicando cada tema
+- Para los proyectos practicos el estudiante tendra la opcion de subir una foto como evidencia del proyecto realizado
+- A demas de los kit basicos para estudiar electronica la pagina tambien tendrá la seccion de proyectos donde se encontraran los instructivos y la posibilidad de adquirir el kit (Comprar kit / Ya tengo el kit)
 
 # Tecnologias a utilizar
 
