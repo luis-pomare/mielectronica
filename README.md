@@ -28,3 +28,8 @@ Maestros que deseen hacer mas facil el aprendizaje de sus alumnos
 - Bz
 - Imagen representativa de los componentes que se usan en cada nivel
 
+# Paradigmas a explorar
+
+- Usar "A la manera rails"
+- Usar interactor GEM
+
